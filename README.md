@@ -1,5 +1,5 @@
 # Онлайн курс по обучению домашних пользователей операционной системе Linux с 20.07.2016
-English version is currently unavailable because this online course is purposed for Russian speaking people, but you can translate it to any language.
+English version is currently unavailable beacuse this online course is purposed for Russian speaking people, but you can translate it to any language.
 ## Формат обучения
 Ежедневные (или с периодическими пропусками) онлайн занятия в формате онлайн семинаров (вебинаров), начало в 19.00 МСК. На занятии ведущий вещает с презентацией, камерой, микрофоном и демонстрацией экрана. Остальные приходят и слушают, в чате задают вопросы. Занятия проводятся на opensource платформе [BigBlueButton](http://bigbluebutton.org) .
 
@@ -14,7 +14,7 @@ English version is currently unavailable because this online course is purposed 
 ## Программа курса
 ### Находится в активной проработке, коммитами или в issues присылайте предложения и замечания!
 | № урока | Тема | Дополнительные материалы | Комментарии |
-| --- | t--- | --- | --- |
+| --- | --- | --- | --- |
 | 1 | Установка ОС Linux рядом с ОС Windows.  Установка на BIOS Legacy, UEFI 64 bit, UEFI 32 bit. Разметка диска | | |
 | 2 | Пакетный менеджер. Установка и удаление программ в графическом режиме и через терминал. Установка сторонних пакетов. Предупреждение об использовании checkinstall вместо install. Обновление системы. Релизы и платформа дистрибутива Роса.| | В Росе LibreOffice, Firefox, Chromium, Flash, Pepperflash, GIMP, Kdenlive из коробки. Поэтому установим Inkscape, Skype, Qupzilla, WPS Office (*а куда ж без проприетарщины, мало ли кому нужна повышенная совместимость с MS Office*), настроим в KDE приложения по умолчанию для открытия тех или иных типов файлов |
 | 3 | Видеодрайвера. Теория. Установка с помощью XFDrake (фирменная утилита в Росе) в один клик. Дикретные видеокарты. Ядро Linux. Обновление ядра. Модули ядра. Как обстоят дела с драйверами для переферии. | Статья про установку драйверов для принтера (выложена сюда будет) | |
