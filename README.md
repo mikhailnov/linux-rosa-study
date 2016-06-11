@@ -1,5 +1,5 @@
 # Онлайн курс по обучению домашних пользователей операционной системе Linux с 20.07.2016
-English version is currently unavailable beacuse this online course is purposed for Russian speaking people, but you can translate it to any language.
+English version is currently unavailable because this online course is purposed for Russian speaking people, but you can translate it to any language.
 ## Формат обучения
 Ежедневные (или с периодическими пропусками) онлайн занятия в формате онлайн семинаров (вебинаров), начало в 19.00 МСК. На занятии ведущий вещает с презентацией, камерой, микрофоном и демонстрацией экрана. Остальные приходят и слушают, в чате задают вопросы. Занятия проводятся на opensource платформе [BigBlueButton](http://bigbluebutton.org) .
 
